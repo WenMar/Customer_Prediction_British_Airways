@@ -10,7 +10,7 @@ British Airways aims to identify the factors that influence customers to complet
 ## The findings
 With over 40,000 booking process started, only 7,474 booking processes were completed. Why did this happen?
 To find out, I made a machine learning model to take the feature importance, the results are:
-https://res.cloudinary.com/dbkz3bebu/image/upload/v1726049059/buwswmj0cz7ogsrs4kmd.png 
+(https://res.cloudinary.com/dbkz3bebu/image/upload/v1726049059/buwswmj0cz7ogsrs4kmd.png)  
 
 The 3 main features that affect whether the booking will be completed are:
 
