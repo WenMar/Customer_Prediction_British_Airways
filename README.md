@@ -10,12 +10,13 @@ British Airways aims to identify the factors that influence customers to complet
 ## The findings
 With over 40,000 booking process started, only 7,474 booking processes were completed. Why did this happen?
 To find out, I made a machine learning model to take the feature importance, the results are:
+feature importance random forest with top features.png 
 
 The 3 main features that affect whether the booking will be completed are:
 
-- purchase_lead(the number of days between travel date and booking date)
-- flight_hour (hour of flight departure)
-- length_of_stay (number of days spent at destination)
+- **purchase_lead** (the number of days between travel date and booking date)
+- **flight_hour** (hour of flight departure)
+- **length_of_stay** (number of days spent at destination)
 
 ## Insights
 - Bookings tend to happen more frequently closer to the travel date
